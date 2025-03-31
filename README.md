@@ -1,4 +1,3 @@
-<h3>Shortsploit</h3>
 <p>A workaround to Apple's screen time.</p>
 <h6>Please view this page on the <a href="https://8nro.github.io/screen-time">GitHub Pages Site</a> if you aren't already.</h6>
 
