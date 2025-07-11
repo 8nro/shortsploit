@@ -9,7 +9,8 @@ This bypass only allows access to websites in their desktop form running in an e
 </blockquote>
 
 <ol>
-<li>Download Apple's <a href="https://apps.apple.com/us/app/shortcuts/id915249334">Shortcuts app</a></li>
+<li>Download Apple's <a href="https://apps.apple.com/us/app/shortcuts/id915249334">Shortcuts app</a>.</li>
+<li>Download Sindre Sorhus' <a href="https://apps.apple.com/us/app/actions/id1586435171">Actions app</a>.</li>
 <li>Find <code>Shortcuts</code> in the settings app and enable <code>Private Sharing</code>.</li>
 <li>Download the <a href="https://www.icloud.com/shortcuts/856bd46469b4419f8b385b495dcadf9c">Shortsploit shortcut</a>.</li>
 <br>
