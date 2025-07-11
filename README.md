@@ -24,7 +24,7 @@ It is highly recommended to use this hack once your screen time is fully deplete
 <br>
 <blockquote>
 💡 TIP<br>
-It is possble diguise Shortsploit as a seperate app if you download the app icon you wish to disguise it as from the web and set it as its icon and name.
+It is possble diguise Shortsploit as a seperate app if you download the app icon you wish to disguise it as from the web and set it as its icon and name as you place it on the Home screen.
 </blockquote>
 </ol>
 
