@@ -28,4 +28,13 @@ It is possble diguise Shortsploit as a seperate app if you download the app icon
 </blockquote>
 </ol>
 
-<p>Feel free to ask me any questions.</p>
+<blockquote>
+<h2>Shortsploit 2.0 Beta</h2>
+I have made a beta version for the upcoming Shortsploit update, featuring a favourites/bookmarking system that allows to save commonly visited websites/search queries. <br>
+You must first download the <a href="https://apps.apple.com/us/app/data-jar/id1453273600">Data Jar</a> application, also install <a href="https://apps.apple.com/us/app/actions/id1586435171">Actions</a> if you haven't already. <br>
+Then download the shortcut <a href="https://www.icloud.com/shortcuts/0371952b1123438b84f6c2b82930e5ba">here</a>.
+</blockquote>
+
+<br>
+
+<p>Feel free to report issues and ask me for help.</p>
